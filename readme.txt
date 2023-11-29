@@ -1,6 +1,6 @@
 Description:
 
-HelpPane object allows us to force Windows 11 to DLL hijacking 
+HelpPane object allows us to force Windows os to DLL hijacking 
 
 Instructions:
 
